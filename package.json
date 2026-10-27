@@ -1,0 +1,21 @@
+{
+  "name": "p-inpaint",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "description": "AI-powered watermark removal web app",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "download-model": "node scripts/download-model.js"
+  },
+  "dependencies": {
+    "vue": "^3.5.13",
+    "onnxruntime-web": "^1.21.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^5.2.3",
+    "vite": "^6.3.2"
+  }
+}
