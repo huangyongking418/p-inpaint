@@ -22,3 +22,6 @@ public/models/*
 .idea/
 .DS_Store
 Thumbs.db
+
+# Local screenshot workspace
+.tmp-screenshot/

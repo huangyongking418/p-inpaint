@@ -4,6 +4,8 @@ P-Inpaint 是一个运行在浏览器中的 AI 图像修复工具。你可以用
 
 > 当前状态：Beta。模型首次使用时需要联网下载，之后会缓存到浏览器 IndexedDB。
 
+![P-Inpaint 浏览器界面](./docs/images/p-inpaint-home.png)
+
 ## 功能
 
 - 画笔涂抹和矩形框选两种遮罩方式
